@@ -1,0 +1,83 @@
+/* EmployeeList.module.css */
+* {
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.header {
+    text-align: center; 
+    margin-top: 30px;
+    font-size: 1.8rem;
+    color: #333;
+    font-weight: 700;
+}
+
+.tableContainer {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.listHeader {
+    margin: 30px 20px 15px;
+    font-size: 1.4rem;
+    margin-bottom: 16px;    
+    color: #333;
+}
+
+.tableWrapper {
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #f8f9fa;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th {
+    background-color: #d1e7dd;
+    color: #333;
+    font-weight: 500;
+    padding: 12px;
+}
+
+.table td {
+    padding: 10px;
+    text-align: center;
+}
+
+.table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.editButton {
+    margin-right: 8px;
+    padding: 8px 24px;
+    border: none;
+    border-radius: 4px;
+    width: 104px;
+    background-color: #adb5bd;
+    color: #fff;
+    cursor: pointer;
+}
+  
+.editButton:hover {
+    background-color: #868e96;
+}
+  
+.deleteButton {
+    padding: 8px 24px;
+    border: none;
+    border-radius: 4px;
+    width: 104px;
+    background-color: #eb7a76;
+    color: #fff;
+    cursor: pointer;
+}
+
+.deleteButton:hover {
+    background-color: #d34545;
+}
