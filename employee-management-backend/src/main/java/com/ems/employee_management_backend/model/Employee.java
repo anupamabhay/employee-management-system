@@ -19,20 +19,20 @@ public class Employee {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
-
+	
 	private String firstName;
 	private String lastName;
 	private String email;
 	
 	// Default constructor
-    public Employee() {}
+	public Employee() {}
 
-    // Parameterized constructor
-    public Employee(String firstName, String lastName, String email) {
-        this.firstName = firstName;
-        this.lastName  = lastName;
-        this.email     = email;
-    }
+	// Parameterized constructor
+	public Employee(String firstName, String lastName, String email) {
+	this.firstName = firstName;
+	this.lastName  = lastName;
+	this.email     = email;
+	}
 
 	public Long getId() {
 		return id;
