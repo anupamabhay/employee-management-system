@@ -4,10 +4,9 @@ A simple Employee Management System that provides a **RESTful API** (built with 
 
 ## Frontend
 **1. Add Employee**
+![ems1](https://github.com/user-attachments/assets/b6683528-24c8-49a5-b32f-66ee0aacc830)
 
-![image](https://github.com/user-attachments/assets/faa4373e-24da-4555-b53f-c47178e4e4b8)
 
-**3. Edit Employee**
 
-![image](https://github.com/user-attachments/assets/96cd0f34-d3de-4fd1-946b-2553102837ac)
-
+**2. Edit Employee**
+![ems2](https://github.com/user-attachments/assets/73a757ea-12ea-4908-aefa-32d025132e44)
