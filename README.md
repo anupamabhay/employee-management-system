@@ -8,5 +8,5 @@ A simple Employee Management System that provides a **RESTful API** (built with 
 
 
 
-**3. Edit Employee**
+**2. Edit Employee**
 ![ems2](https://github.com/user-attachments/assets/73a757ea-12ea-4908-aefa-32d025132e44)
